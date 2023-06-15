@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A developer from Germany</h3>
 
-<p align="center"> <img alt="Coding" width="700" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" /> </p>
+<p align="center"> <img alt="Coding" width="900" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ed-sch&label=Profile%20views&color=0e75b6&style=flat" alt="ed-sch" /> </p>
 
