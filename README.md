@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
-<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="Centered Image">
-</div>
+
+<p align="center"> <img alt="Coding" width="800" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ed-sch&label=Profile%20views&color=0e75b6&style=flat" alt="ed-sch" /> </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
